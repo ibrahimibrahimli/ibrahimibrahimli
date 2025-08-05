@@ -23,6 +23,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimibrahimli&show_icons=true&locale=en&layout=compact" alt="ibrahimibrahimli" /></p>
 
+[![generate animation](https://github.com/ibrahimibrahimli/ibrahimibrahimli/actions/workflows/main.yml/badge.svg)](https://github.com/ibrahimibrahimli/ibrahimibrahimli/actions/workflows/main.yml)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimibrahimli&show_icons=true&locale=en" alt="ibrahimibrahimli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimibrahimli&" alt="ibrahimibrahimli" /></p>
